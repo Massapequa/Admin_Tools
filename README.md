@@ -47,7 +47,7 @@ These are for the Ultima Online emulator, ServUO (www.servuo.com).<br>
 <br>
 <details>
   <summary>
-View Effect Item - An item that allows you to see different items and effects look like in-gome, with different hues and render modes, before you add them to your custom scripts.
+View Effect Item - An item that allows you to see different items and effects look like in-game, with different hues and render modes, before you add them to your custom scripts.
 </summary>
 Options that can be customized Include:<br>
 ItemID, EffectHue, Speed, RenderMode, Height, and Duration.<br>
